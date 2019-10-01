@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Great Pull!
+
+Keep on coding!
+
+Don't stop until your dreams are realized!
